@@ -1,0 +1,3080 @@
+fileFormatVersion: 2
+guid: e5345624c1f73574ebc159ba161fbada
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8225571634140198866
+    second: tank_sprite_66_0
+  - first:
+      213: -6167595074612974387
+    second: tank_sprite_66_1
+  - first:
+      213: -2056412174738798876
+    second: tank_sprite_66_2
+  - first:
+      213: -8316776559375344685
+    second: tank_sprite_66_3
+  - first:
+      213: 7419776280157623649
+    second: tank_sprite_66_4
+  - first:
+      213: -1657568574090976212
+    second: tank_sprite_66_5
+  - first:
+      213: 712376309357596234
+    second: tank_sprite_66_6
+  - first:
+      213: -4840568010439952899
+    second: tank_sprite_66_7
+  - first:
+      213: 1191522590570684993
+    second: tank_sprite_66_8
+  - first:
+      213: -8228740238497124183
+    second: tank_sprite_66_9
+  - first:
+      213: -8816898218039437143
+    second: tank_sprite_66_10
+  - first:
+      213: 4917489853170716737
+    second: tank_sprite_66_11
+  - first:
+      213: 2162369777323873528
+    second: tank_sprite_66_12
+  - first:
+      213: 416512546091316314
+    second: tank_sprite_66_13
+  - first:
+      213: 2697898257437212247
+    second: tank_sprite_66_14
+  - first:
+      213: 7429048604880716120
+    second: tank_sprite_66_15
+  - first:
+      213: 1682957931534324219
+    second: tank_sprite_66_16
+  - first:
+      213: 8516643423017088001
+    second: tank_sprite_66_17
+  - first:
+      213: -3697211640655494576
+    second: tank_sprite_66_18
+  - first:
+      213: -5617010536950465390
+    second: tank_sprite_66_19
+  - first:
+      213: 7818787545234518228
+    second: tank_sprite_66_20
+  - first:
+      213: -5184100186255947916
+    second: tank_sprite_66_21
+  - first:
+      213: -1368577323454766259
+    second: tank_sprite_66_22
+  - first:
+      213: 2900336115015878667
+    second: tank_sprite_66_23
+  - first:
+      213: -5262117638046967509
+    second: tank_sprite_66_24
+  - first:
+      213: 1062284560188908776
+    second: tank_sprite_66_25
+  - first:
+      213: 2073741510687414747
+    second: tank_sprite_66_26
+  - first:
+      213: 6705963080212957219
+    second: tank_sprite_66_27
+  - first:
+      213: -5818738781523082726
+    second: tank_sprite_66_28
+  - first:
+      213: 6293589130376481224
+    second: tank_sprite_66_29
+  - first:
+      213: -5163249994941609375
+    second: tank_sprite_66_30
+  - first:
+      213: -7191857503426913534
+    second: tank_sprite_66_31
+  - first:
+      213: 7253784499585851722
+    second: tank_sprite_66_32
+  - first:
+      213: -3628642184215558096
+    second: tank_sprite_66_33
+  - first:
+      213: 7443386301764286243
+    second: tank_sprite_66_34
+  - first:
+      213: -5195180770482219189
+    second: tank_sprite_66_35
+  - first:
+      213: 2421539257397748560
+    second: tank_sprite_66_36
+  - first:
+      213: -6571638298024152197
+    second: tank_sprite_66_37
+  - first:
+      213: -1674721810234835724
+    second: tank_sprite_66_38
+  - first:
+      213: 3818096624410248002
+    second: tank_sprite_66_39
+  - first:
+      213: 7618099780879222507
+    second: tank_sprite_66_40
+  - first:
+      213: -1402640755445415198
+    second: tank_sprite_66_41
+  - first:
+      213: 6917138046321890045
+    second: tank_sprite_66_42
+  - first:
+      213: -6342090046730154854
+    second: tank_sprite_66_43
+  - first:
+      213: 8103328338479928063
+    second: tank_sprite_66_44
+  - first:
+      213: -5853805534802187723
+    second: tank_sprite_66_45
+  - first:
+      213: -2338277811343523561
+    second: tank_sprite_66_46
+  - first:
+      213: 3372549935324899690
+    second: tank_sprite_66_47
+  - first:
+      213: -3780478269945990151
+    second: tank_sprite_66_48
+  - first:
+      213: 1455821595462146077
+    second: tank_sprite_66_49
+  - first:
+      213: -247324841780389007
+    second: tank_sprite_66_50
+  - first:
+      213: 3918013633692363423
+    second: tank_sprite_66_51
+  - first:
+      213: 133080878342719447
+    second: tank_sprite_66_52
+  - first:
+      213: 4976009703104634854
+    second: tank_sprite_66_53
+  - first:
+      213: -6447253362764192121
+    second: tank_sprite_66_54
+  - first:
+      213: 296503726079363198
+    second: tank_sprite_66_55
+  - first:
+      213: 5841521080589823699
+    second: tank_sprite_66_56
+  - first:
+      213: 4243359597701926704
+    second: tank_sprite_66_57
+  - first:
+      213: -3325673829272800597
+    second: tank_sprite_66_58
+  - first:
+      213: 2987717984264018762
+    second: gameOver
+  - first:
+      213: 8075631948383409493
+    second: tank_sprite_66_60
+  - first:
+      213: -3755960948649821939
+    second: tank_sprite_66_61
+  - first:
+      213: -3443718722316087195
+    second: tank_sprite_66_62
+  - first:
+      213: -9025854737289803820
+    second: tank_sprite_66_63
+  - first:
+      213: 7536955447272970274
+    second: tank_sprite_66_64
+  - first:
+      213: -6327603083912027389
+    second: tank_sprite_66_65
+  - first:
+      213: -2508212790276707629
+    second: tank_sprite_66_66
+  - first:
+      213: 3653661034549875655
+    second: tank_sprite_66_67
+  - first:
+      213: -6234869729196125167
+    second: tank_sprite_66_68
+  - first:
+      213: -8963668106762484918
+    second: tank_sprite_66_69
+  - first:
+      213: 8590081855121309568
+    second: tank_sprite_66_70
+  - first:
+      213: -651720522032481343
+    second: tank_sprite_66_71
+  - first:
+      213: 5949636413116398444
+    second: tank_sprite_66_72
+  - first:
+      213: 5404570537609652079
+    second: tank_sprite_66_73
+  - first:
+      213: 9216879581241644928
+    second: tank_sprite_66_74
+  - first:
+      213: 8633170597863043430
+    second: tank_sprite_66_75
+  - first:
+      213: -4141150245338368137
+    second: tank_sprite_66_76
+  - first:
+      213: 1475481258380563829
+    second: tank_sprite_66_77
+  - first:
+      213: -2577142573973604668
+    second: tank_sprite_66_78
+  - first:
+      213: 8818112942101189073
+    second: tank_sprite_66_79
+  - first:
+      213: -6606324014887016421
+    second: tank_sprite_66_80
+  - first:
+      213: -9203814761899603944
+    second: tank_sprite_66_81
+  - first:
+      213: -1139996081165854956
+    second: tank_sprite_66_82
+  - first:
+      213: 3919293758457266816
+    second: tank_sprite_66_83
+  - first:
+      213: -4283194989661120249
+    second: tank_sprite_66_84
+  - first:
+      213: -1064007963213907108
+    second: tank_sprite_66_85
+  - first:
+      213: -8787637042877516241
+    second: tank_sprite_66_86
+  - first:
+      213: 3193826780780847460
+    second: tank_sprite_66_87
+  - first:
+      213: 7907228336306992327
+    second: tank_sprite_66_88
+  - first:
+      213: 2260028056069963879
+    second: tank_sprite_66_89
+  - first:
+      213: 7040215570691633480
+    second: tank_sprite_66_90
+  - first:
+      213: -3083976569166946186
+    second: tank_sprite_66_91
+  - first:
+      213: -6922137331867531838
+    second: tank_sprite_66_92
+  - first:
+      213: 7305893672680696007
+    second: tank_sprite_66_93
+  - first:
+      213: -3792530797142036607
+    second: tank_sprite_66_94
+  - first:
+      213: -5317269473246040023
+    second: tank_sprite_66_95
+  - first:
+      213: -2169811605111193886
+    second: tank_sprite_66_96
+  - first:
+      213: -6157085660474146085
+    second: tank_sprite_66_97
+  - first:
+      213: 7494242831986507886
+    second: tank_sprite_66_98
+  - first:
+      213: -7141798308058327430
+    second: tank_sprite_66_99
+  - first:
+      213: -7341613455018606288
+    second: tank_sprite_66_100
+  - first:
+      213: 8329524624493989026
+    second: tank_sprite_66_101
+  - first:
+      213: 7205574097563078507
+    second: tank_sprite_66_102
+  - first:
+      213: 2398884691828733096
+    second: tank_sprite_66_103
+  - first:
+      213: -502336350572636944
+    second: tank_sprite_66_104
+  - first:
+      213: 1509149705072693460
+    second: HP
+  - first:
+      213: 3455866734577060049
+    second: tank_sprite_66_106
+  - first:
+      213: 1431793270651736675
+    second: tank_sprite_66_107
+  - first:
+      213: -8364469752722404276
+    second: tank_sprite_66_108
+  - first:
+      213: -7716854010693511958
+    second: tank_sprite_66_109
+  - first:
+      213: 5583307257176369000
+    second: tank_sprite_66_110
+  - first:
+      213: 8504299965868799037
+    second: tank_sprite_66_111
+  - first:
+      213: -1218196449160153787
+    second: tank_sprite_66_112
+  - first:
+      213: 7965209715367073402
+    second: tank_sprite_66_113
+  - first:
+      213: 2437447791557233386
+    second: tank_sprite_66_114
+  - first:
+      213: -5237829472000041234
+    second: TankCount
+  - first:
+      213: -5953901713085598736
+    second: tank_sprite_66_0
+  - first:
+      213: -6799452605087331055
+    second: tank_sprite_66_1
+  - first:
+      213: -4434430849561736476
+    second: tank_sprite_66_2
+  - first:
+      213: 7419457877288922305
+    second: tank_sprite_66_3
+  - first:
+      213: -6020908694583422115
+    second: tank_sprite_66_4
+  - first:
+      213: -3671830330362961175
+    second: tank_sprite_66_5
+  - first:
+      213: 3374901068754890684
+    second: tank_sprite_66_6
+  - first:
+      213: -6643936692886877269
+    second: tank_sprite_66_7
+  - first:
+      213: -2558955717284589537
+    second: tank_sprite_66_8
+  - first:
+      213: 2855181775273680413
+    second: tank_sprite_66_9
+  - first:
+      213: 4745022764641083199
+    second: tank_sprite_66_10
+  - first:
+      213: 6422241666737598065
+    second: tank_sprite_66_11
+  - first:
+      213: 3339326023162086187
+    second: tank_sprite_66_12
+  - first:
+      213: 6109463392532180787
+    second: tank_sprite_66_13
+  - first:
+      213: 7361003645732668184
+    second: tank_sprite_66_14
+  - first:
+      213: 4646323221979445665
+    second: tank_sprite_66_15
+  - first:
+      213: -9195364953440918727
+    second: tank_sprite_66_16
+  - first:
+      213: 4470498209606200800
+    second: tank_sprite_66_17
+  - first:
+      213: 2720724810168604556
+    second: tank_sprite_66_18
+  - first:
+      213: -2578025289592677529
+    second: tank_sprite_66_19
+  - first:
+      213: -902242811894679671
+    second: tank_sprite_66_20
+  - first:
+      213: 4667918235711953788
+    second: tank_sprite_66_21
+  - first:
+      213: -223741744613275819
+    second: tank_sprite_66_22
+  - first:
+      213: 6985849489564184166
+    second: tank_sprite_66_23
+  - first:
+      213: 1875289486954715139
+    second: tank_sprite_66_24
+  - first:
+      213: 4356358128096490090
+    second: tank_sprite_66_25
+  - first:
+      213: -8032383265159448906
+    second: tank_sprite_66_26
+  - first:
+      213: -7268695351616340499
+    second: tank_sprite_66_27
+  - first:
+      213: -6315379285613803524
+    second: tank_sprite_66_28
+  - first:
+      213: -7285682562433248050
+    second: tank_sprite_66_29
+  - first:
+      213: 4227086924531224195
+    second: tank_sprite_66_30
+  - first:
+      213: -2283634365216357789
+    second: tank_sprite_66_31
+  - first:
+      213: -1680307429483853986
+    second: tank_sprite_66_32
+  - first:
+      213: 3151664803394655927
+    second: tank_sprite_66_33
+  - first:
+      213: -1643957939882472453
+    second: tank_sprite_66_34
+  - first:
+      213: 3492542783300370713
+    second: tank_sprite_66_35
+  - first:
+      213: -3641366885216691684
+    second: tank_sprite_66_36
+  - first:
+      213: -9099225114437598410
+    second: tank_sprite_66_37
+  - first:
+      213: 4793883573412631206
+    second: tank_sprite_66_38
+  - first:
+      213: -2296837881280589086
+    second: tank_sprite_66_39
+  - first:
+      213: -136667714686075866
+    second: tank_sprite_66_40
+  - first:
+      213: -603366672476919803
+    second: tank_sprite_66_41
+  - first:
+      213: 67439160338523787
+    second: tank_sprite_66_42
+  - first:
+      213: 7142549838125275301
+    second: tank_sprite_66_43
+  - first:
+      213: -6377772659007430989
+    second: tank_sprite_66_44
+  - first:
+      213: -7862161907125598301
+    second: tank_sprite_66_45
+  - first:
+      213: -948464950824131773
+    second: tank_sprite_66_46
+  - first:
+      213: -3905386290901041655
+    second: tank_sprite_66_47
+  - first:
+      213: 4169600407762869988
+    second: tank_sprite_66_48
+  - first:
+      213: 7794147699151875752
+    second: tank_sprite_66_49
+  - first:
+      213: 2770879315332870307
+    second: tank_sprite_66_50
+  - first:
+      213: -5756592379278526602
+    second: tank_sprite_66_51
+  - first:
+      213: -7355288370572306253
+    second: tank_sprite_66_52
+  - first:
+      213: 5988279838234053994
+    second: tank_sprite_66_53
+  - first:
+      213: -6222570039443697025
+    second: tank_sprite_66_54
+  - first:
+      213: 8462375189189955254
+    second: tank_sprite_66_55
+  - first:
+      213: -3159148181912499226
+    second: tank_sprite_66_56
+  - first:
+      213: 2748267311039945022
+    second: tank_sprite_66_57
+  - first:
+      213: -1185074059923741670
+    second: tank_sprite_66_58
+  - first:
+      213: -244255830571803277
+    second: gameOver
+  - first:
+      213: -2247865648197301826
+    second: tank_sprite_66_63
+  - first:
+      213: 1603017499862297077
+    second: tank_sprite_66_64
+  - first:
+      213: -3724280646881207429
+    second: tank_sprite_66_65
+  - first:
+      213: -5087545036394472066
+    second: tank_sprite_66_66
+  - first:
+      213: -6659599119744043797
+    second: tank_sprite_66_67
+  - first:
+      213: -1511600454903275682
+    second: tank_sprite_66_68
+  - first:
+      213: 2041374822208649108
+    second: tank_sprite_66_73
+  - first:
+      213: -6473953043775519852
+    second: tank_sprite_66_74
+  - first:
+      213: 1388432804896375927
+    second: tank_sprite_66_75
+  - first:
+      213: -8489292705574565354
+    second: tank_sprite_66_76
+  - first:
+      213: -6086286191366023460
+    second: tank_sprite_66_77
+  - first:
+      213: 4882508506065514447
+    second: tank_sprite_66_78
+  - first:
+      213: -3713181724091196428
+    second: tank_sprite_66_79
+  - first:
+      213: 7399989005798947268
+    second: tank_sprite_66_80
+  - first:
+      213: -8090058670896982129
+    second: tank_sprite_66_81
+  - first:
+      213: -3163779173338266835
+    second: tank_sprite_66_82
+  - first:
+      213: -7470698937906509664
+    second: tank_sprite_66_83
+  - first:
+      213: 214349518429100572
+    second: tank_sprite_66_84
+  - first:
+      213: -3794486788536645477
+    second: tank_sprite_66_85
+  - first:
+      213: 9104093582541741704
+    second: tank_sprite_66_86
+  - first:
+      213: 5347035200886094278
+    second: tank_sprite_66_87
+  - first:
+      213: -2827629971337661136
+    second: tank_sprite_66_88
+  - first:
+      213: -6787356953053218968
+    second: tank_sprite_66_89
+  - first:
+      213: -6217462879010941695
+    second: tank_sprite_66_90
+  - first:
+      213: 1337971858322918234
+    second: tank_sprite_66_91
+  - first:
+      213: 3316510413379994607
+    second: tank_sprite_66_92
+  - first:
+      213: -1258166422647778823
+    second: tank_sprite_66_93
+  - first:
+      213: -3606854610911691166
+    second: tank_sprite_66_94
+  - first:
+      213: -7607667631605493378
+    second: tank_sprite_66_95
+  - first:
+      213: 6456425789930587913
+    second: tank_sprite_66_96
+  - first:
+      213: -1333597292575994803
+    second: tank_sprite_66_97
+  - first:
+      213: -6854620700389703942
+    second: tank_sprite_66_98
+  - first:
+      213: -5656632602686814899
+    second: tank_sprite_66_99
+  - first:
+      213: 1430592791724361828
+    second: tank_sprite_66_100
+  - first:
+      213: 7551908520048503397
+    second: tank_sprite_66_101
+  - first:
+      213: 8233346400481568490
+    second: tank_sprite_66_102
+  - first:
+      213: 2239280518349497637
+    second: tank_sprite_66_103
+  - first:
+      213: 3563812562475255981
+    second: tank_sprite_66_104
+  - first:
+      213: -4497287799561273940
+    second: HP
+  - first:
+      213: 2305408716063571727
+    second: tank_sprite_66_106
+  - first:
+      213: 6202658329890535289
+    second: tank_sprite_66_107
+  - first:
+      213: 8457664815418043874
+    second: tank_sprite_66_108
+  - first:
+      213: 108195196664390705
+    second: tank_sprite_66_109
+  - first:
+      213: -8506007728289704467
+    second: tank_sprite_66_110
+  - first:
+      213: 2365686965611547944
+    second: tank_sprite_66_111
+  - first:
+      213: 7295517383355483962
+    second: tank_sprite_66_112
+  - first:
+      213: 1625303708428348722
+    second: tank_sprite_66_113
+  - first:
+      213: -2814590083492001645
+    second: tank_sprite_66_114
+  - first:
+      213: 1917101034904082056
+    second: TankCount
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tank_sprite_66_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 665
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f371f3efed7f5da0800000000000000
+      internalID: -5953901713085598736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 665
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d4aa671ed73a1a0800000000000000
+      internalID: -6799452605087331055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 665
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac6de03acb572c0800000000000000
+      internalID: -4434430849561736476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 665
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca7c121a537f660800000000000000
+      internalID: 7419457877288922305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 665
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d535b42417f617ca0800000000000000
+      internalID: -6020908694583422115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 665
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2e53bc4c90b0dc0800000000000000
+      internalID: -3671830330362961175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 665
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfa83b14ae06de20800000000000000
+      internalID: 3374901068754890684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 665
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab4b4667cefbc3a0800000000000000
+      internalID: -6643936692886877269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_8
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 665
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f101c434553cc7cd0800000000000000
+      internalID: -2558955717284589537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 665
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e5b5c72b4af9720800000000000000
+      internalID: 2855181775273680413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 599
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd2917015b9d140800000000000000
+      internalID: 4745022764641083199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 599
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e6b97f4c2602950800000000000000
+      internalID: 6422241666737598065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 599
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b234bc7535ba75e20800000000000000
+      internalID: 3339326023162086187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 599
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f2220169c29c450800000000000000
+      internalID: 6109463392532180787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 599
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8134046c0d9872660800000000000000
+      internalID: 7361003645732668184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 599
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9bbb56a5e0b7040800000000000000
+      internalID: 4646323221979445665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_16
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 599
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e3124b40836080800000000000000
+      internalID: -9195364953440918727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 599
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ede8989f666a0e30800000000000000
+      internalID: 4470498209606200800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 599
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8711b1ccc4f1c520800000000000000
+      internalID: 2720724810168604556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 533
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bdad778a3093cd0800000000000000
+      internalID: -2578025289592677529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 533
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9873edf51f69a73f0800000000000000
+      internalID: -902242811894679671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 533
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bdd2857e6c7c040800000000000000
+      internalID: 4667918235711953788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 533
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55746e6911c15ecf0800000000000000
+      internalID: -223741744613275819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_23
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 533
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e21df1919b2f060800000000000000
+      internalID: 6985849489564184166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 533
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308d5f84add560a10800000000000000
+      internalID: 1875289486954715139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_25
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 533
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62b393f2a4e47c30800000000000000
+      internalID: 4356358128096490090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_26
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 533
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6f06c4afd378090800000000000000
+      internalID: -8032383265159448906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_27
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 533
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedff52c618602b90800000000000000
+      internalID: -7268695351616340499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_28
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 533
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7012300044b58a0800000000000000
+      internalID: -6315379285613803524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 467
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec498e78f4e04ea90800000000000000
+      internalID: -7285682562433248050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 467
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ec16b6921a9aa30800000000000000
+      internalID: 4227086924531224195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 467
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3628760e4a6ee40e0800000000000000
+      internalID: -2283634365216357789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 467
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e574a28ab495ea8e0800000000000000
+      internalID: -1680307429483853986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_33
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 467
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b69071c076fcbb20800000000000000
+      internalID: 3151664803394655927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 467
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb4f97b6fc7f29e0800000000000000
+      internalID: -1643957939882472453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_35
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 467
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91109793821087030800000000000000
+      internalID: 3492542783300370713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_36
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 480
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ad9c55c14477dc0800000000000000
+      internalID: -3641366885216691684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_37
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 464
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63342aad7fe09b180800000000000000
+      internalID: -9099225114437598410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_38
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 479
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a217dff5bb478240800000000000000
+      internalID: 4793883573412631206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 401
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e21c9bbd1eff10e0800000000000000
+      internalID: -2296837881280589086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 401
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c3fd500757a1ef0800000000000000
+      internalID: -136667714686075866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 401
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50824b9453960a7f0800000000000000
+      internalID: -603366672476919803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 401
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86adeb1f879fe000800000000000000
+      internalID: 67439160338523787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_43
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 401
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a81bf32c3f6f1360800000000000000
+      internalID: 7142549838125275301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_44
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 401
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bed9a9be899d77a0800000000000000
+      internalID: -6377772659007430989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 401
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7cb27a66df3e290800000000000000
+      internalID: -7862161907125598301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 414
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3432834072066d2f0800000000000000
+      internalID: -948464950824131773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_47
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 414
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eb92c2cd74dc9c0800000000000000
+      internalID: -3905386290901041655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_48
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 414
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee9708ba756dd930800000000000000
+      internalID: 4169600407762869988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 335
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae20e689006a2c60800000000000000
+      internalID: 7794147699151875752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 335
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0b4e97e04247620800000000000000
+      internalID: 2770879315332870307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 335
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677f1641bb97c10b0800000000000000
+      internalID: -5756592379278526602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 335
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d97b6234cce990800000000000000
+      internalID: -7355288370572306253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 335
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d039d19c4aa1350800000000000000
+      internalID: 5988279838234053994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_54
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 335
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7258f8848df4a9a0800000000000000
+      internalID: -6222570039443697025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_55
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 335
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be0fb32665607570800000000000000
+      internalID: 8462375189189955254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_56
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 339
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebc84867737824d0800000000000000
+      internalID: -3159148181912499226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_57
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 339
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e399a56fe8ec32620800000000000000
+      internalID: 2748267311039945022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_58
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 339
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1427b9db65cd8fe0800000000000000
+      internalID: -1185074059923741670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameOver
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 198
+        width: 258
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d1370cd9a3c9cf0800000000000000
+      internalID: -244255830571803277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_63
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 272
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb985684a1afdc0e0800000000000000
+      internalID: -2247865648197301826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_64
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 269
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9e6084cef0f3610800000000000000
+      internalID: 1603017499862297077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_65
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 265
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b98c6db72b05cc0800000000000000
+      internalID: -3724280646881207429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_66
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 267
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dd7ee8eb86569b0800000000000000
+      internalID: -5087545036394472066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_67
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 267
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4f62972e95493a0800000000000000
+      internalID: -6659599119744043797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_68
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 267
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fdb232567b50be0800000000000000
+      internalID: -1511600454903275682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 205
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4973c2bc59b645c10800000000000000
+      internalID: 2041374822208649108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_74
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 215
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4938335d106e726a0800000000000000
+      internalID: -6473953043775519852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_75
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 222
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7740952a744b44310800000000000000
+      internalID: 1388432804896375927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 218
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ac9e13349ff2a80800000000000000
+      internalID: -8489292705574565354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_77
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 215
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6534a94fa298ba0800000000000000
+      internalID: -6086286191366023460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_78
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 219
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfabdc1e9722c340800000000000000
+      internalID: 4882508506065514447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 151
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb521d25e0287cc0800000000000000
+      internalID: -3713181724091196428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_80
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 156
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c931704bca02b660800000000000000
+      internalID: 7399989005798947268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_81
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 167
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87dd1570865abf80800000000000000
+      internalID: -8090058670896982129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_82
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 163
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23c461ba9ff714d0800000000000000
+      internalID: -3163779173338266835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 167
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c13eb5eeb25890800000000000000
+      internalID: -7470698937906509664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_84
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 163
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a1eb750c589f200800000000000000
+      internalID: 214349518429100572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_85
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 167
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b984c50be56475bc0800000000000000
+      internalID: -3794486788536645477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_86
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 163
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e5055b0ec385e70800000000000000
+      internalID: 9104093582541741704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_87
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 147
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c933567f2c743a40800000000000000
+      internalID: 5347035200886094278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_88
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 149
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035bb22c58d32c8d0800000000000000
+      internalID: -2827629971337661136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_89
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 149
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8673c79efc67ec1a0800000000000000
+      internalID: -6787356953053218968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_90
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 149
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105106cf37227b9a0800000000000000
+      internalID: -6217462879010941695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_91
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 154
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b8ec6f05e619210800000000000000
+      internalID: 1337971858322918234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3066b36ac960e20800000000000000
+      internalID: 3316510413379994607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_93
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 159
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f151cdfd481a8ee0800000000000000
+      internalID: -1258166422647778823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_94
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 159
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ef02067d0e1fdc0800000000000000
+      internalID: -3606854610911691166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_95
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71dae0a8922c6690800000000000000
+      internalID: -7607667631605493378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_96
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907cb7f5c05d99950800000000000000
+      internalID: 6456425789930587913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_97
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cc59ef35c1e7de0800000000000000
+      internalID: -1333597292575994803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_98
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 84
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe7b335ace7fd0a0800000000000000
+      internalID: -6854620700389703942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_99
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 81
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4585f33e9a9f71b0800000000000000
+      internalID: -5656632602686814899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_100
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 84
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46807f0809c7ad310800000000000000
+      internalID: 1430592791724361828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_101
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 81
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56aacb989c4cdc860800000000000000
+      internalID: 7551908520048503397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_102
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 82
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e179dde8b24270800000000000000
+      internalID: 8233346400481568490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_103
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 84
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525aca864c5831f10800000000000000
+      internalID: 2239280518349497637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_104
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 83
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da88968c4a4357130800000000000000
+      internalID: 3563812562475255981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HP
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 82
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadb37ee29c6691c0800000000000000
+      internalID: -4497287799561273940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_106
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 93
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ffe0f33057eff10800000000000000
+      internalID: 2305408716063571727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_107
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 87
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9773e3053e4441650800000000000000
+      internalID: 6202658329890535289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_108
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edef48c659af5570800000000000000
+      internalID: 8457664815418043874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_109
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 22
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a59745f2608100800000000000000
+      internalID: 108195196664390705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_110
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 17
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de59092b90794f980800000000000000
+      internalID: -8506007728289704467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_111
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 20
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d4c03e2cb94d020800000000000000
+      internalID: 2365686965611547944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_112
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 19
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3747972862ee3560800000000000000
+      internalID: 7295517383355483962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_113
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 18
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d2ff09c1d3e8610800000000000000
+      internalID: 1625303708428348722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_sprite_66_114
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 18
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5323874, y: 0.5280673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3984f1d3b3190f8d0800000000000000
+      internalID: -2814590083492001645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TankCount
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 17
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886ddf7eb39ea9a10800000000000000
+      internalID: 1917101034904082056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
